@@ -1,0 +1,11 @@
+{
+  "feeds": [
+    {
+      "name": "Grevenbroich Wissen News",
+      "url": "https://wissen.grevenbroich.de/rss/file.php/14134/166111fd8e2b3aa8b923d3ef69d6db6a/mod_data/82/rss.xml",
+      "include_any": [],
+      "exclude_any": [],
+      "max_items": 30
+    }
+  ]
+}
